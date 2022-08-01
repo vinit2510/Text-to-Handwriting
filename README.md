@@ -2,7 +2,7 @@
 This python project can convert your simple text into handwritten page.
 
 Uses:
--Make text into handwritten form
+-Make text into handwritten notebook size page
 -Make pdf from multiple pages
 -Make scaned pdf
 
