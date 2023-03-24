@@ -13,3 +13,4 @@ Example:
 Required Installs:
 
 pip install tk
+pip install pillow
