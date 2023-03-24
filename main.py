@@ -174,6 +174,8 @@ def convert_press():
             img2 = Image.open('images\my_fonts\\quotation.png')
         elif text[i] == ':':
             img2 = Image.open('images\my_fonts\\colon.png')
+        elif text[i] == ".":
+            img2 = Image.open('images\my_fonts\\dot.png')
         elif text[i] == "~":
             y = y + 20
             x = 60
